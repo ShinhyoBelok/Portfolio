@@ -1,0 +1,18 @@
+div {
+  color: white;
+}
+
+.dp-flex {
+  display: flex;
+}
+
+.main_container {
+  justify-content: center;
+  gap: 10vw;
+  margin-top: 5vh;
+}
+
+h1 {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 2.5rem;
+}

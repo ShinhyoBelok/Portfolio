@@ -1,4 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@1,300;1,400;1,700&family=Titillium+Web:wght@300&display=swap');
+
 body {
   background: rgb(12,8,31);
-  background: linear-gradient(30deg, rgba(12,8,31,1) 20%, rgba(16,41,69,1) 100%);
+  background: linear-gradient(90deg, rgba(12,8,31,1) 20%, rgba(16,41,69,1) 100%);
+}
+
+* {
+  color: white;
+  box-sizing: border-box;
+  font-family: 'Titillium Web', sans-serif;
 }
