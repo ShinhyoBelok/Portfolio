@@ -1,15 +1,12 @@
 import './App.css'
-import {
-  Routes, Route
-} from 'react-router-dom';
+import Navbar from './components/navbar'
 import MainPage from './pages/MainPage'
 function App() {
 
   return (
     <div className="app_container">
-      <Routes>
-        <Route exact path="/home" element={<MainPage />} />
-      </Routes>
+      <Navbar />
+      <MainPage />
     </div>
   )
 }
