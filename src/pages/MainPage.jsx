@@ -29,7 +29,7 @@ export default function MainPage() {
           <article className="presentation">
             <h1>Shinhyo Belliard</h1>
             <h4>Full-Stack developer</h4>
-            <p>I</p>
+            <p>I'm Shinhyo, a full-stack developer with experience in React and Ruby on Rails. I'm proficient in both front-end and back-end web development, and I'm always looking for new ways to improve the user experience. I have experience collaborating with other developers remotely on projects. I'm able to communicate effectively and work efficiently in a team environment, even when we're not in the same room. I'm also able to learn new technologies quickly and adapt to new situations. I'm passionate about web development, and I'm confident that I can make a significant contribution to your team.</p>
           </article>
           <Navbar />
         </div>
