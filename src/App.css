@@ -3,6 +3,8 @@
 body {
   background: rgb(12,8,31);
   background: linear-gradient(90deg, rgba(12,8,31,1) 20%, rgba(16,41,69,1) 100%);
+  padding: 0;
+  margin: 0;
 }
 
 * {
@@ -10,4 +12,8 @@ body {
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
   
+}
+
+.d-flex {
+  display: flex;
 }
