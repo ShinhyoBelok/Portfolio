@@ -1,0 +1,14 @@
+.menu {
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 0 1rem;
+  background-color: rgba(0, 0, 0, 0.2);
+  position: sticky;
+  top: 0;
+}
+
+.menu ul {
+  gap: 2rem;
+  list-style: none;
+}
